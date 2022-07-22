@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking for **Internship** 
-- 📫 You can add me on my [Facebook](https://www.facebook.com/JRaagasF) or visit my [Portfolio](https://jlscsr.github.io/JlsCsr-Portfolio/)
+- 📫 You can add me on my [Facebook](https://www.facebook.com/JRaagasF) or visit my Portfolio
 
 <!---
 Jlscsr/Jlscsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
