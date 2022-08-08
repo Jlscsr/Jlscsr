@@ -4,8 +4,6 @@
 </p>
 
 <br>
-<br>
-<br>
 
 <p align="center">
     <i>Hi! I am Julius Caesar F. Raagas, 2nd year college student taking up a Bachelor of Science in Computer Science.<br>
@@ -18,7 +16,7 @@
 <br>
 <br>
 
-<h2><img src="https://media.giphy.com/media/pick-me-all-about-6n6N2o22gKVeDQDGy8/giphy.gif" width="30">About Me</h2>
+<h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/About-me.gif" width="30">About Me</h2>
 - 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>
 
 - 🧠 I'm currently learning <strong>Javascript</strong> and <strong>React</strong>
