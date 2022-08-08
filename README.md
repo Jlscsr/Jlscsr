@@ -29,7 +29,10 @@
 
 - ❓ Random: binging <strong>One Piece</strong> anime right now.
 
-<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/luffy.gif" width="100"></p>
+<br>
+<br>
+
+<p align="left"><img src="https://github.com/Jlscsr/Illustrations/blob/main/luffy.gif" width="200px"></p>
 
 <br>
 <br>
