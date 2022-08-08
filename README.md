@@ -25,9 +25,11 @@
 
 - ⚡️ Fun fact: <i>I'm not good at designing</i>.
 
+- 😄 Pronouns: He/His.
+
 - ❓ Random: binging <strong>One Piece</strong> anime right now.
 
-- 😄 Pronouns: He/His.
+<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/luffy.gif" width="100"></p>
 
 <br>
 <br>
