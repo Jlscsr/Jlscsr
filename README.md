@@ -56,7 +56,7 @@
 
 <h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/statistics.gif" width="45">Github Profile Stats</h2>
 <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jlscsr&theme=radical)]
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jlscsr&theme=radical"></p>
 
 <h1>Thank you for Visiting my Account!<h1>
 
