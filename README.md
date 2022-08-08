@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<p align="left"><img src="https://github.com/Jlscsr/Illustrations/blob/main/luffy.gif" width="200px"></p>
+<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/luffy.gif" width="300px"></p>
 
 <br>
 <br>
