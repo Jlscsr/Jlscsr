@@ -14,16 +14,34 @@
 
 <br>
 <br>
+
+<h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/About-me.gif" width="50"> About Me</h2>
+
+- 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>.
+
+- 🧠 I'm currently learning <strong>Javascript</strong> and <strong>React</strong>.
+
+- 👯‍♀️ I'm Availabel for <Strong>Internship</strong> or <strong>Collaboration</strong>.
+
+- ⚡️ Fun fact: <i>I'm not good at designing</i>.
+
+- ❓ Random: binging <strong>One Piece</strong> anime right now.
+
+- 😄 Pronouns: He/His.
+
+<br>
 <br>
 
-<h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/About-me.gif" width="50">About Me</h2>
-- 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>
+<h2 align="center">⚒️ My working tools</h2>
+<br>
+<h3 align="center">⚒️ Main Tools</h3>
+<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/html.png" width="55">&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/css-3.png" width="55">&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/js.png" width="55"></p>
+<h3 align="center">⚒️ Least Experience</h3>
+<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/python.png" width="55">&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/java.png" width="55">&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/c-.png" width="55"></p>
 
-- 🧠 I'm currently learning <strong>Javascript</strong> and <strong>React</strong>
+<h3 align="center">⚒️ Environment Tools</h3>
+<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/vsCode.png" width="55">&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/eclipseIDE.png" width="30">&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/figma.png" width="55"></p>
 
-- 👯‍♀️ I'm Availabel for <Strong>Internship</strong> or <strong>Collaboration</strong>
-
-- ⚡️ Fun fact: <i>I'm not good at designing</i>
-
-- ❓Random: binging <strong>One Piece</strong> anime right now.
+<br>
+<br>
 
