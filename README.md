@@ -8,6 +8,12 @@
     I'm the type of person who's willing to learn and competent enough to deal with the tasks needed. I'm hardworking, organized and definitely a fast learner.</i>
 </p>
 
-<h2>About Me😊</h2>
--📘&nbsp;I'm Currently Learning Web Development
--🏫&nbsp;A Computer Science Student
+## About Me😊
+- 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>
+
+- 🧠 I'm currently learning <strong>Javascript</strong> and <strong>React</strong>
+
+- 👯‍♀️ I'm Availabel for <Strong>Internship</strong> or <strong>Collaboration</strong>
+
+- ⚡️ Fun fact: <i>I'm not good at designing</i>
+
