@@ -1,1 +1,2 @@
-<h1 align="center">Julius Caesar F. Raagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Julius Raagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=500&color=20C7F7&background=4CFF7400&center=true&vCenter=true&lines=Computer+Science+Student;Front-End+Developer;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" /></a>
