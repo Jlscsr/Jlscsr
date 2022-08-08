@@ -3,7 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=500&color=20C7F7&background=4CFF7400&center=true&vCenter=true&lines=Computer+Science+Student;Front-End+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="center" width="70%">
     <i>Hi! I am Julius Caesar F. Raagas, 2nd year college student taking up a Bachelor of Science in Computer Science.
     I'm the type of person who's willing to learn and competent enough to deal with the tasks needed. I'm hardworking, organized and definitely a fast learner.</i>
 </p>
