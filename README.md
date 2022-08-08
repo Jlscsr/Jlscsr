@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/About-me.gif" width="40">About Me</h2>
+<h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/About-me.gif" width="50">About Me</h2>
 - 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>
 
 - 🧠 I'm currently learning <strong>Javascript</strong> and <strong>React</strong>
