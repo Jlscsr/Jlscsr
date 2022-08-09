@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Julius Raagas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=500&color=20C7F7&background=4CFF7400&center=true&vCenter=true&lines=Computer+Science+Student;Front-End+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=500&color=20C7F7&background=4CFF7400&center=true&vCenter=true&lines=Computer+Science+Student;Aspiring-Full-Stack+Developer+and+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 
 - 🧠 I'm currently learning <strong>Javascript</strong> and <strong>React</strong>.
 
-- 👯‍♀️ I'm Availabel for <Strong>Internship</strong> or <strong>Collaboration</strong>.
+- 👯‍♀️ I'm Available for <Strong>Internship</strong> or <strong>Collaboration</strong>.
 
 - ⚡️ Fun fact: <i>I'm not good at designing</i>.
 
@@ -62,6 +62,9 @@
 <h2><img src="https://github.com/Jlscsr/Illustrations/blob/main/statistics.gif" width="45">Github Profile Stats</h2>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jlscsr&theme=radical"></p>
+
+<br>
+<br>
 
 <h1>Thank you for Visiting my Account!<h1>
 
