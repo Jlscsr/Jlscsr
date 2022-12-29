@@ -19,7 +19,7 @@
 
 - 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>.
 
-- 🧠 I'm currently learning <strong>Javascript</strong> and <strong>Vue and React</strong>.
+- 🧠 I'm currently learning <strong>Javascript</strong> and <strong>Vue</strong>.
 
 - 👯‍♀️ I'm Available for <Strong>Internship</strong> or <strong>Collaboration</strong>.
 
