@@ -27,13 +27,6 @@
 
 - 😄 Pronouns: He/His.
 
-- ❓ Random: binging <strong>One Piece</strong> anime right now.
-
-<br>
-<br>
-
-<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/luffy.gif" width="300px"></p>
-
 <br>
 <br>
 
