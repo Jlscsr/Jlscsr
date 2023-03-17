@@ -6,10 +6,7 @@
 <br>
 
 <p align="center">
-    <i>Hi! I am Julius Caesar F. Raagas, 2nd year college student taking up a Bachelor of Science in Computer Science.<br>
-    I'm the type of person who's willing to learn and competent enough to deal with the tasks needed.<br> 
-    I'm hardworking, organized and definitely a fast learner.
-    </i>
+    <iGreetings! My name is Julius Caesar F. Raagas, and I am a second-year college student pursuing a Bachelor of Science degree in Computer Science. I am a dedicated and eager learner, and possess the necessary skills and knowledge to tackle any task presented to me with confidence and competence. My strong work ethic, organizational skills, and ability to quickly absorb new information make me a valuable asset to any team or project. Thank you for considering me for any future opportunities.</i>
 </p>
 
 <br>
@@ -19,11 +16,9 @@
 
 - 👩‍💻 I'm currently working on my <strong color="blue">Portfolio Projects</strong>.
 
-- 🧠 I'm currently learning <strong>Vue</strong>.
+- 🧠 I'm currently learning <strong>Vue, Php, and Databases</strong>.
 
 - 👯‍♀️ I'm Available for <Strong>Internship</strong> or <strong>Collaboration</strong>.
-
-- ⚡️ Fun fact: <i>I'm not good at designing</i>.
 
 - 😄 Pronouns: He/His.
 
@@ -37,7 +32,7 @@
 <p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/html.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/css-3.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/js.png" width="35"></p>
 <h3 align="center">👉Least Experience</h3>
 <br>
-<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/python.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/java.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/c-.png" width="35"></p>
+<p align="center"><img src="https://github.com/Jlscsr/Illustrations/blob/main/python.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Jlscsr/Illustrations/blob/main/java.png" width="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <br>
 <h3 align="center">👉Software Tools</h3>
 <br>
@@ -46,8 +41,8 @@
 <br>
 <br>
 
-<h2>📋My Sample Projects</h2>
-<h3>Coming Soon!</h3>
+<h2>📋My Projects</h2>
+<p>Prepairing..<p>
 
 <br>
 <br>
