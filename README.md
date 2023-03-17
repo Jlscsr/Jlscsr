@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-    <iGreetings! My name is Julius Caesar F. Raagas, and I am a second-year college student pursuing a Bachelor of Science degree in Computer Science. I am a dedicated and eager learner, and possess the necessary skills and knowledge to tackle any task presented to me with confidence and competence. My strong work ethic, organizational skills, and ability to quickly absorb new information make me a valuable asset to any team or project. Thank you for considering me for any future opportunities.</i>
+    <i>Greetings! My name is Julius Caesar F. Raagas, and I am a second-year college student pursuing a Bachelor of Science degree in Computer Science. I am a dedicated and eager learner, and possess the necessary skills and knowledge to tackle any task presented to me with confidence and competence. My strong work ethic, organizational skills, and ability to quickly absorb new information make me a valuable asset to any team or project. Thank you for considering me for any future opportunities.</i>
 </p>
 
 <br>
