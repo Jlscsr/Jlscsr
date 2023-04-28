@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlscsr&label=Profile%20views&color=0e75b6&style=flat" alt="jlscsr" /> </p>
 
-- 🔭 I’m currently working on **Php Projects**
+- 🔭 I’m currently working on **School Project**
 
-- 🌱 I’m currently learning **Advance Vue.js concepts, PHP, node, express and Databases**
+- 🌱 I’m currently learning **Advance Vue.js concepts, PHP, Node, Laravel and Databases**
 
 - 📫 How to reach me **raagasjuliuscaesar@gmail.com**
 
