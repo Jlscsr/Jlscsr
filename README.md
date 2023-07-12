@@ -37,5 +37,5 @@
 <div align="center">
   <a href="https://www.facebook.com/Jlcsr11/" target="_blank">Facebook</a> |
   <a href="https://www.linkedin.com/in/julius-caesar-raagas-93b794276/" target="_blank">LinkedIn</a> |
-  Gmail: raagasjuliuscaesar@gmail.com
+  <a href="mailto:raagasjuliuscaesar@gmail.com" target="_blank">Gmail</a>
 </div>
