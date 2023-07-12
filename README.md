@@ -23,4 +23,4 @@
 </p>
 <hr>
 <h2 align="center">📄Certifications</h2>
-![Pixel8 internship](https://github.com/Jlscsr/Readme-file-assets/blob/main/Julius%20Raagas%20-%20Certificate%20of%20Completion-1.png) - Issued by Pixel8
+![Pixel8 internship](https://github.com/Jlscsr/Readme-file-assets/blob/main/Julius%20Raagas%20-%20Certificate%20of%20Completion-1.png)
