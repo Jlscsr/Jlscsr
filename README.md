@@ -4,7 +4,7 @@
 <p align="center">👋 Hey there! I'm Julius Raagas, a 💻 2nd-year college student pursuing a Bachelor of Computer Science degree. My passion lies in becoming a 🚀 full stack developer and 🌟 software engineer, crafting innovative solutions through code. Join me on my journey as I explore the vast realms of technology and bring ideas to life!</p>
 <hr>
 <h2 align="center">💻 Technologies I Use</h2>
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -20,10 +20,15 @@
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</p>
+</div>
 <hr>
-<h2 align="center">📄Certifications</h2>
+<h2 align="center">📄 Certifications</h2>
 <div align="center">
   <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" alt="Certification" width="400px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 14px; margin-top: 10px;">Frontend & Backend Intern</p>
+</div>
+
+<h2 align="center">💡 My Projects</h2>
+<div align="center">
+  <p>🚧 Coming Soon! Stay tuned as I prepare to showcase my projects. Exciting things are in the works!</p>
 </div>
