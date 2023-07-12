@@ -29,10 +29,10 @@
 </div>
 <hr>
 <h2 align="center">💡 My Projects</h2>
-### Project 1: Project Name
+<p><bold>Project 1: Project Name</bold></p>
 
 <div align="center">
-  <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" alt="Certification" width="400px">
+  <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/web-projects/ponmeals.png" alt="Pon-Meals" width="350px">
 </div>
 
 📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
