@@ -23,4 +23,7 @@
 </p>
 <hr>
 <h2 align="center">📄Certifications</h2>
-<img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" style="width: 500px"/>
+<div align="center">
+  <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" alt="Certification" width="500px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  <p style="font-size: 14px; margin-top: 10px;">Certificate of Completion</p>
+</div>
