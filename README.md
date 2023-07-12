@@ -30,7 +30,7 @@
 <hr>
 <h2 align="center">💡 My Projects</h2>
 
-**Project 1: Pon-Meals**
+**Project 1: Pon-Meals** <br>
 📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
 
 🔗 **Links:**
