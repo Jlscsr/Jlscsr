@@ -29,8 +29,18 @@
 </div>
 <hr>
 <h2 align="center">💡 My Projects</h2>
+### Project 1: Project Name
+
 <div align="center">
-  <p>🚧 Coming Soon! Stay tuned as I prepare to showcase my projects. Exciting things are in the works!</p>
+  <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" alt="Certification" width="400px">
+</div>
+
+📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
+
+🔗 **Links:**
+- 👉 [Repository](https://github.com/Jlscsr/pon-meals)
+- 👉 [Live Demo](https://jlscsr.github.io/pon-meals/)
+---
 </div>
 <hr>
 <h2 align="center">📞 Contact</h2>
