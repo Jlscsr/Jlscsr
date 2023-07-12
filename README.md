@@ -32,3 +32,10 @@
 <div align="center">
   <p>🚧 Coming Soon! Stay tuned as I prepare to showcase my projects. Exciting things are in the works!</p>
 </div>
+<hr>
+<h2 align="center">📞 Contact</h2>
+<div align="center">
+  <a href="https://www.facebook.com/Jlcsr11/">Facebook</a> |
+  <a href="https://www.linkedin.com/in/julius-caesar-raagas-93b794276/">LinkedIn</a> |
+  Gmail: raagasjuliuscaesar@gmail.com
+</div>
