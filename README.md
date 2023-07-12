@@ -35,7 +35,7 @@
 <hr>
 <h2 align="center">📞 Contact</h2>
 <div align="center">
-  <a href="https://www.facebook.com/Jlcsr11/">Facebook</a> |
-  <a href="https://www.linkedin.com/in/julius-caesar-raagas-93b794276/">LinkedIn</a> |
+  <a href="https://www.facebook.com/Jlcsr11/" target="_blank">Facebook</a> |
+  <a href="https://www.linkedin.com/in/julius-caesar-raagas-93b794276/" target="_blank">LinkedIn</a> |
   Gmail: raagasjuliuscaesar@gmail.com
 </div>
