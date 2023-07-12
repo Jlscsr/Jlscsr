@@ -27,7 +27,7 @@
   <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" alt="Certification" width="400px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 14px; margin-top: 10px;">Frontend & Backend Intern</p>
 </div>
-
+<hr>
 <h2 align="center">💡 My Projects</h2>
 <div align="center">
   <p>🚧 Coming Soon! Stay tuned as I prepare to showcase my projects. Exciting things are in the works!</p>
