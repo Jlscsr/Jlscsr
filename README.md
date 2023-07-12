@@ -39,3 +39,10 @@
   <a href="https://www.linkedin.com/in/julius-caesar-raagas-93b794276/" target="_blank">LinkedIn</a> |
   <a href="mailto:raagasjuliuscaesar@gmail.com" target="_blank">Gmail</a>
 </div>
+<hr>
+
+<h2 align="center">🙏 Thank you!</h2>
+
+<p align="center">
+  Thank you for taking the time to visit my profile and learn more about me. I appreciate your interest! If you have any questions, feel free to reach out through the contact channels mentioned above. I look forward to connecting with you and exploring exciting opportunities together. Have a great day!
+</p>
