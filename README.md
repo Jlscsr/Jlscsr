@@ -23,4 +23,4 @@
 </p>
 <hr>
 <h2 align="center">📄Certifications</h2>
-![Pixel8 Internship completion certificate](https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png)
+<img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" style="width: 50px"/>
