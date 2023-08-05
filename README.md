@@ -3,7 +3,11 @@
 <h2 align="center">📝About me</h2>
 <p align="left">👋 Hey there! I'm Julius Raagas, a 💻 upcoming 3rd-year college student pursuing a Bachelor of Computer Science degree. My passion lies in becoming a 🚀 full stack developer and 🌟 software engineer, crafting innovative solutions through code. Join me on my journey as I explore the vast realms of technology and bring ideas to life!</p>
 
+- 📍 Located in Imus Cavite, Philippines.
 - 🌱 Currently learning and honing my skills in full stack technologies and Data Structures and Algorithm.
+- 🎨 Interested in UI/UX design principles and creating user-friendly interfaces.
+- 🎮 When not coding, I enjoy playing video games and watching anime.
+- 🤝 Open to networking and connecting with fellow developers on professional platforms like LinkedIn.
 
 <hr>
 <h2 align="center">💻 Technologies I Use</h2>
