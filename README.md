@@ -27,20 +27,22 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 <hr>
-<h2 align="center">📄 Certifications</h2>
-<div align="center">
-  <img src="https://github.com/Jlscsr/Readme-file-assets/blob/main/JuliusRaagas_CertificateofCompletion.png" alt="Certification" width="400px" style="border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-  <p style="font-size: 14px; margin-top: 10px;">Frontend & Backend Intern</p>
-</div>
-<hr>
 <h2 align="center">💡 My Projects</h2>
-
-**Project 1: Pon-Meals** <br>
-📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
-
-🔗 **Links:**
-- 👉 [Repository](https://github.com/Jlscsr/pon-meals)
-- 👉 [Live Demo](https://jlscsr.github.io/pon-meals/)
+<div>
+  **Project 1: Pon-Meals** <br>
+  📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
+  
+  🔗 **Links:**
+  - 👉 [Repository](https://github.com/Jlscsr/pon-meals)
+  - 👉 [Live Demo](https://jlscsr.github.io/pon-meals/)
+</div>
+<div>
+  **Project 2: Coffee Website** <br>
+  📃 **Description:** This project is centered around the development of a coffee-themed website, serving as both a practice ground and a showcase for my front-end development expertise. My goal with this endeavor is to not only bolster my front-end skills but also craft an engaging and informative digital destination for visitors to savor.
+  
+  🔗 **Links:**
+  - 👉 [Repository](https://github.com/Jlscsr/Coffee-Website)
+  - 👉 [Latest Live Demo](https://jlscsr.github.io/coffee-website-2022/)
 </div>
 <hr>
 <h2 align="center">📞 Contact</h2>
