@@ -28,22 +28,20 @@
 </div>
 <hr>
 <h2 align="center">💡 My Projects</h2>
-<div>
-  **Project 1: Pon-Meals** <br>
-  📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
+
+**Project 1: Pon-Meals** <br>
+📃 **Description:** This is a simple recipe app built with Vue + Vite, Axios, and Scss. It displays meals from TheMealDB API, limited to a certain number of meals. The project was built to help me become familiar with routing, dynamic routings, and APIs.
   
-  🔗 **Links:**
-  - 👉 [Repository](https://github.com/Jlscsr/pon-meals)
-  - 👉 [Live Demo](https://jlscsr.github.io/pon-meals/)
-</div>
-<div>
-  **Project 2: Coffee Website** <br>
-  📃 **Description:** This project is centered around the development of a coffee-themed website, serving as both a practice ground and a showcase for my front-end development expertise. My goal with this endeavor is to not only bolster my front-end skills but also craft an engaging and informative digital destination for visitors to savor.
+🔗 **Links:**
+- 👉 [Repository](https://github.com/Jlscsr/pon-meals)
+- 👉 [Live Demo](https://jlscsr.github.io/pon-meals/)
+
+**Project 2: Coffee Website** <br>
+📃 **Description:** This project is centered around the development of a coffee-themed website, serving as both a practice ground and a showcase for my front-end development expertise. My goal with this endeavor is to not only bolster my front-end skills but also craft an engaging and informative digital destination for visitors to savor.
   
-  🔗 **Links:**
-  - 👉 [Repository](https://github.com/Jlscsr/Coffee-Website)
-  - 👉 [Latest Live Demo](https://jlscsr.github.io/coffee-website-2022/)
-</div>
+🔗 **Links:**
+- 👉 [Repository](https://github.com/Jlscsr/Coffee-Website)
+- 👉 [Latest Live Demo](https://jlscsr.github.io/coffee-website-2022/)
 <hr>
 <h2 align="center">📞 Contact</h2>
 <div align="center">
