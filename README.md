@@ -36,7 +36,7 @@
   
 🔗 **Links:**
 - 👉 [Repository](https://github.com/Jlscsr/Coffee-Website)
-- 👉 [Latest Live Demo](https://jlscsr.github.io/coffee-website-2022/)
+- 👉 [Latest Live Demo](https://jlscsr.github.io/coffee-website-2023/)
 <hr>
 <h2 align="center">📞 Contact</h2>
 <div align="center">
