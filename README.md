@@ -40,7 +40,7 @@ those little things that waste a few seconds but haunt me like a background proc
 If it annoys me, I automate it. If it confuses me, I build a system for it.  
 It’s not “overengineering” if it sparks joy (or saves me from losing my mind).
 
-BUT—don’t get it twisted. I also build systems for actual real-world problems.  
+BUT don’t get it twisted. I also build systems for actual real-world problems.  
 Especially if you’re paying. Then suddenly, I’m passionate. 🤝💸
 
 > “So you made this out of spite *and* for profit?”  
