@@ -18,7 +18,7 @@ Currently surviving (barely) through a Computer Science degree at CVSU Bacoor Ca
 > “If it wastes my time even *once*, it’s getting automated.”
 
 I enjoy making things that are either helpful, borderline cursed, or both.  
-Why? Because chaos fuels creativity—and convenience is king.
+Why? Because chaos fuels creativity and convenience is king.
 
 ---
 
@@ -34,7 +34,7 @@ Why? Because chaos fuels creativity—and convenience is king.
 
 ## 🔧 Why I Build Stuff (a.k.a. “The Method to My Madness”)
 
-I make oddly specific projects inspired by small daily inconveniences—  
+I make oddly specific projects inspired by small daily inconveniences  
 those little things that waste a few seconds but haunt me like a background process.
 
 If it annoys me, I automate it. If it confuses me, I build a system for it.  
