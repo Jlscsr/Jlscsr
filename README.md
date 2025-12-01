@@ -3,73 +3,73 @@
 </h1>
 
 <p align="center">
-  <em><b>Full-Stack Developer & Computer Science Student from Cavite 🇵🇭</b></em><br>
-  <em><b>Building code to dodge life's little inconveniences ✨</b></em>
+  <em><b>Full-Stack Developer & CS Student | AI-Native Engineer 🇵🇭</b></em><br>
+  <em><b>Transitioning from writing code to engineering systems 🏗️</b></em>
 </p>
 
 ---
 
-## 🚀 Who Dis?
+## 🔄 The Evolution: Coder ➡️ Architect
 
-Hey! I’m Julius, a backend-focused full-stack dev from Imus, Philippines.  
-Currently surviving (barely) through a Computer Science degree at CVSU Bacoor Campus (Expected 2026 🤞). I’m fluent in JavaScript and turning dumb ideas into actually useful systems.
+Hey! I’m Julius. I’ve been coding for years, building apps, debugging logic, and wrestling with syntax.
 
-### 🧠 Life Motto (as developer):
-> “If it wastes my time even *once*, it’s getting automated.”
+**But the game has changed, and so am I.**
 
-I enjoy making things that are either helpful, borderline cursed, or both.  
-Why? Because chaos fuels creativity and convenience is king.
+I am currently shifting my workflow to embrace **"Vibe Coding" (AI-Augmented Development)**.
+Why? Because AI can handle the syntax, but it can't handle the **Vision**.
 
----
+I am consciously moving away from *manual coding* to focus on **High-Level Engineering**. My goal is to master the "Why" and "Where" of software, letting AI handle the "How."
 
-## 🤹 Current Obsessions
-
-- 🖼️ Turning UI/UX designs into pixel-perfect reality (I hate this)
-- 🌐 Web dev wizardry with Vue, React, and Node
-- 🤖 Tinkering with AI & ML for fun and thesis survival
-- ☁️ Deploying things on the cloud like I know what I’m doing (I do. Most of the time.)
-- 🛠️ Making strange side projects for oddly specific problems (IYKYK)
+### 🧠 My New Learning Path:
+I'm using my coding background to write better prompts, but my study hours are now dedicated to the **Big Picture**:
+> *"How do I architect this for scale?"*
+> *"Which Design Pattern best solves this logic?"*
+> *"How do I design a system that doesn't break?"*
 
 ---
 
-## 🔧 Why I Build Stuff (a.k.a. “The Method to My Madness”)
+## 🔭 What I'm Learning (The High-Level Stuff)
 
-I make oddly specific projects inspired by small daily inconveniences  
-those little things that waste a few seconds but haunt me like a background process.
+Since I'm spending less time typing boilerplate, I'm spending more time studying these concepts:
 
-If it annoys me, I automate it. If it confuses me, I build a system for it.  
-It’s not “overengineering” if it sparks joy (or saves me from losing my mind).
-
-BUT don’t get it twisted. I also build systems for actual real-world problems.  
-Especially if you’re paying. Then suddenly, I’m passionate. 🤝💸
-
-> “So you made this out of spite *and* for profit?”  
-> Yup. Dual-core motivation.
+- 🏗️ **System Architecture:** exploring the trade-offs between Monoliths, Microservices, and Serverless.
+- 📐 **Design Patterns:** Moving beyond "if-else" logic to implement robust patterns (Singleton, Factory, Strategy).
+- 🎨 **Design Systems:** Learning how to structure UI/UX tokens so they translate perfectly into code.
+- 🤖 **Prompt Engineering:** Treating natural language as a programming language to get precise results from LLMs.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🔧 Practice Projects
 
-### **Frontend**
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+I still build tools for my specific daily inconveniences, but now I use them to test architectural theories.
 
-### **Backend**
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- **Project Slime:** A desktop companion (Experimenting with AI integration & Event-driven design).
+- **Precision Boxing:** Training app (Focusing on clean Database Schema & State Management).
+- **Translation Models:** Customizing LLMs for local dialects (Learning the ML pipeline).
 
-### **Databases & Infra**
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-
-### **Tools & Random Power-ups**
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-RESTful%20APIs-000000?style=for-the-badge"> <img src="https://img.shields.io/badge/-UI%20Designing-blueviolet?style=for-the-badge">
+> **The Philosophy:** "I don't just want it to work. I want it to be designed well enough that I can explain *why* it works."
 
 ---
 
-## 🌱 What I'm Up To
+## 🛠️ Tech Stack & Concepts
 
-- 🏫 Balancing thesis stress with coffee-fueled dev sprints
-- ⚒️ Working on side projects that nobody asked for but might solve niche problems
-- 🤝 Open to internships, collabs, or just nerding out about backend systems
-- 🧠 Still wrestling with CSS... one flexbox at a time
+I use these tools, but I'm currently focusing on *how to organize them*.
+
+### **The Concepts (My Current Focus)**
+![System Design](https://img.shields.io/badge/System%20Design-In%20Progress-yellow?style=for-the-badge&logo=uml&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Eng-Advanced-critical?style=for-the-badge&logo=openai&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Learning-blue?style=for-the-badge)
+
+### **The Toolbelt**
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+---
+
+## 🌱 Evolution Log
+
+- 🏫 **Base:** Computer Science Student @ CVSU Bacoor (Expected 2026).
+- 🔄 **Shift:** moving from "Brute force coding" to "Architectural Planning."
+- ⚡ **Superpower:** Knowing exactly what to ask the AI because I know how the code *should* look.
 
 ---
 
@@ -77,8 +77,6 @@ Especially if you’re paying. Then suddenly, I’m passionate. 🤝💸
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jlscsr&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlscsr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -93,12 +91,12 @@ Especially if you’re paying. Then suddenly, I’m passionate. 🤝💸
 
 <p align="center">
   気軽にメッセージください！<br>
-  <em>(Feel free to slide into my inbox. Professional inquiries only... unless you're also debugging at 3am.)</em>
+  <em>(Open to chatting about System Design resources or efficient AI workflows!)</em>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://media1.tenor.com/m/qaWa58wIy3cAAAAd/subaru-oozora.gif" alt="Oozora Subaru Hololive Funny GIF" width="300"/><br>
-  <small><i>Shuba Shuba~ (my brain during async bug hunts 🦆)</i></small>
+  <small><i>Shuba Shuba~ (Me explaining the architecture to the AI... 🦆)</i></small>
 </p>
